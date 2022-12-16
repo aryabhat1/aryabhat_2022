@@ -1,3 +1,6 @@
+
+// highly configured- verify again
+
 import { Typography } from "@mui/material";
 import React from "react";
 import "./AboutStyle.css";

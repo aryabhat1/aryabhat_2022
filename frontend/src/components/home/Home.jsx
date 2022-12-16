@@ -162,14 +162,14 @@ const Home = () => {
         <div className="cubeShadow"></div>
         <div className="homeSkillsBox">
           <SiRust />
-          <SiSolidity />
+          {/* <SiSolidity /> */}
           <SiReact />
           <SiThreedotjs />
           <SiNodedotjs />
           <SiExpress />
           <SiJavascript />
-          <SiHtml5 />
-          <SiCss3 />
+          {/* <SiHtml5 /> */}
+          {/* <SiCss3 /> */}
         </div>
       </div>
 
